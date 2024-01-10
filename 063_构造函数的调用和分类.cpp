@@ -40,7 +40,7 @@ int main()
 	//不要用拷贝构造函数去初始化一个匿名对象，Person(P3)====>Person P3;系统会认为重复定义
 	//3、隐式转化法
 	Person P1;
-	Person P4 = 10;//=Person P4(10)
-	Person p5 = P1;//=Person P5(P1);
+	Person P4 = 10;//=Person P4(10)有参构造函数
+	Person p5 = P1;//=Person P5(P1);拷贝构造函数
 	return 0;
 }
