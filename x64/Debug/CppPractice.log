@@ -1,4 +1,2 @@
-﻿  084_继承方式.cpp
-C:\Users\21314\Desktop\CppPractice\084_继承方式.cpp(49,9): warning C4101: “C2”: 未引用的局部变量
-C:\Users\21314\Desktop\CppPractice\084_继承方式.cpp(56,9): warning C4101: “C3”: 未引用的局部变量
+﻿  087_多继承语法.cpp
   CppPractice.vcxproj -> C:\Users\21314\Desktop\CppPractice\x64\Debug\CppPractice.exe
