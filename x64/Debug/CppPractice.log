@@ -1,6 +1,2 @@
-﻿  104_类模板中成员函数创建时机.cpp
-C:\Users\21314\Desktop\CppPractice\104_类模板中成员函数创建时机.cpp(33,7): error C2039: "showPerson2": 不是 "Person1" 的成员
-C:\Users\21314\Desktop\CppPractice\104_类模板中成员函数创建时机.cpp(6): message : 参见“Person1”的声明
-C:\Users\21314\Desktop\CppPractice\104_类模板中成员函数创建时机.cpp(32): message : 在编译 类 模板 成员函数“void MyClass<Person1>::func2(void)”时
-C:\Users\21314\Desktop\CppPractice\104_类模板中成员函数创建时机.cpp(40): message : 查看对正在编译的函数 模板 实例化“void MyClass<Person1>::func2(void)”的引用
-C:\Users\21314\Desktop\CppPractice\104_类模板中成员函数创建时机.cpp(38): message : 查看对正在编译的 类 模板 实例化“MyClass<Person1>”的引用
+﻿  105_类模板对象做函数参数.cpp
+  CppPractice.vcxproj -> C:\Users\21314\Desktop\CppPractice\x64\Debug\CppPractice.exe
