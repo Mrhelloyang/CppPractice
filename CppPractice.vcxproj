@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="109_类模板与友元.cpp" />
+    <ClCompile Include="110_MyArray.hpp" />
+    <ClCompile Include="110_通用的数组类的实现.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

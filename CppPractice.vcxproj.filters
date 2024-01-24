@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="109_类模板与友元.cpp">
+    <ClCompile Include="110_通用的数组类的实现.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110_MyArray.hpp">
+      <Filter>头文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
