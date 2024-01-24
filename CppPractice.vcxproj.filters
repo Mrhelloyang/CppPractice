@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="106_类模板与继承.cpp">
-      <Filter>头文件</Filter>
+    <ClCompile Include="109_类模板与友元.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
