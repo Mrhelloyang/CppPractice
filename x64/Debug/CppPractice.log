@@ -1,3 +1,2 @@
-﻿  117_获取子串.cpp
-C:\Users\21314\Desktop\CppPractice\117_获取子串.cpp(9,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+﻿  121_vector存取数据.cpp
   CppPractice.vcxproj -> C:\Users\21314\Desktop\CppPractice\x64\Debug\CppPractice.exe
