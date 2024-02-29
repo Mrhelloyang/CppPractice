@@ -18,6 +18,7 @@ void test01()
 	S1.insert(30);
 	S1.insert(30);
 	S1.insert(50);
+	S1.insert(5);
 	printSet(S1);//set容器的实现原理是二叉树，插入的时候会自动排序，set插入重复的数据会不执行
 	set<int>S2(S1);//拷贝构造
 	printSet(S2);
